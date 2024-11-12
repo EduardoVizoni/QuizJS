@@ -4,7 +4,7 @@ Este é um projeto de quiz interativo, desenvolvido em HTML, CSS e JavaScript, q
 
 ## 🎨 Demonstração
 
-<img src="demonstracao.png" alt="Demonstração do Quiz" width="300px">
+<img src="demonstracao.png" alt="Demonstração do Quiz" width="900px">
 
 ## Índice
 - [Funcionalidades](#funcionalidades)
