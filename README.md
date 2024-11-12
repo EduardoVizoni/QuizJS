@@ -37,7 +37,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
 ## 📁 Estrutura do Projeto
 
 ```plaintext
-📂 projeto-quiz
+📂 QuizJS
 ├── index.html         # Estrutura principal do quiz
 ├── style.css          # Estilos do quiz
 ├── questions.js       # Questões do quiz
