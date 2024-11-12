@@ -7,13 +7,13 @@ Este é um projeto de quiz interativo, desenvolvido em HTML, CSS e JavaScript, q
 <img src="demonstracao.png" alt="Demonstração do Quiz" width="900px">
 
 ## Índice
-- [Instalação](#instalação).
-- [Funcionalidades](#funcionalidades).
-- [Estrutura do Projeto](#estrututra-do-projeto).
-- [Pré-requisitos](#pré-requisitos).
-- [Como usar](#como-usar);
-- [Tecnologias Utilizadas](#tecnologias-utilizadas).
-- [Contribuição](#contriubição).
+- [Instalação](#instalação)
+- [Funcionalidades](#funcionalidades)
+- [Estrutura do Projeto](#estrututra-do-projeto)
+- [Pré-requisitos](#pré-requisitos)
+- [Como usar](#como-usar)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Contribuição](#contriubição)
 
 ## Instalação
 
