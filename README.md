@@ -8,7 +8,7 @@ Este é um projeto de quiz interativo, desenvolvido em HTML, CSS e JavaScript, q
 
 ## Índice
 - [Instalação](#instalação)
-- [Funcionalidades](#funcionalidades)
+- [Funcionalidades](#Funcionalidades)
 - [Estrutura do Projeto](#estrututra-do-projeto).
 - [Pré-requisitos](#pré-requisitos).
 - [Como usar](#como-usar);
