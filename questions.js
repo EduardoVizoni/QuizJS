@@ -9,7 +9,7 @@ export default [
         ],
     },
     {
-        question: "Onde você se vê daqui cino anos? E em dez? ",
+        question: "Onde você se vê daqui cinco anos? E em dez? ",
         answers: [
             {option:"Pessoal", correct: false},
             {option:"Futuro", correct: true},
