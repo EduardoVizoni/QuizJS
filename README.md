@@ -9,15 +9,13 @@ Este é um projeto de quiz interativo, desenvolvido em HTML, CSS e JavaScript, q
 ## Índice
 - [Funcionalidades](#funcionalidades)
 - [Instalação](#instalação)
-- [Funcionalidade](#funcionalidade)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Estrutura do Projeto](#estrututra-do-projeto).
 - [Pré-requisitos](#pre-requisitos).
 - [Como usar](#como-usar);
 - [Tecnologias Utilizadas](#tecnologias-utilizadas).
 - [Contribuição](#contriubição).
 
-## Funcionalidades
+## 🚀 Funcionalidades
 
 - Exibe uma pergunta por vez.
 - Feedback imediato para respostas corretas e incorretas.
@@ -36,13 +34,6 @@ Para rodar o projeto localmente, siga os passos abaixo:
    ```bash
     cd QuizJS
 3. Abra o arquivo index.html no seu navegador para iniciar o quiz.
-
-## 🚀 Funcionalidades
-
-- Interface intuitiva com organização de perguntas e respostas em duas colunas.
-- Estilo visual moderno com CSS personalizado.
-- Feedback visual para respostas corretas e incorretas.
-- Botão de reinício para recomeçar o quiz após finalizá-lo.
 
 ## 📁 Estrutura do Projeto
 
